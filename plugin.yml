@@ -1,0 +1,10 @@
+name: ChangeGameMode
+main: uk.co.jordanmcqueen.ChangeGameMode.ChangeGameMode
+version: 1.2
+description: >
+             changes player's game mode.
+commands:
+  creative:
+      description: Toggles game mode to creative.
+  survival:
+      description: Toggles game mode to survival.
